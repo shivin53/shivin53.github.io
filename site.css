@@ -10,3 +10,7 @@ body {
 a{
     color:rgb(0, 83, 255);
 }
+#div1{
+border: 5px solid rgb(3, 38, 70);
+width: 200px;
+};
